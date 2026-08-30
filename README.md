@@ -66,6 +66,6 @@ Cada aluno deverá escolher **um dos dois projetos abaixo** e entregar até **se
 
 ## Instruções gerais
 - Escolha **apenas um** dos dois projetos.
-- Prazo de entrega: **segunda-feira que vem**.
-- Trabalho pode ser individual ou em dupla (combinar com o professor caso queira fazer em grupo maior).
+- Prazo de entrega: **Quarta-Feira, 09/09/2026**.
+- Trabalho é individual.
 - Em caso de dúvidas, anotar e perguntar na próxima aula presencial.
