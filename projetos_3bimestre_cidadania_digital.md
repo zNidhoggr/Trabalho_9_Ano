@@ -1,7 +1,7 @@
 # Tecnologia e Cidadania Digital — 9º Ano
 ## Projetos do 3º Bimestre — Entrega em 1 semana (sem aulas presenciais)
 
-Cada aluno (ou grupo, se preferir organizar assim) deverá escolher **um dos dois projetos abaixo** e entregar até **segunda-feira**. As instruções são autoexplicativas para que possam ser feitas em casa, sem necessidade de aula.
+Cada aluno deverá escolher **um dos dois projetos abaixo** e entregar até **segunda-feira**. As instruções são autoexplicativas para que possam ser feitas em casa, sem necessidade de aula.
 
 ---
 
