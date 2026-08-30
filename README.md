@@ -51,7 +51,7 @@ Cada aluno deverá escolher **um dos dois projetos abaixo** e entregar até **se
 4. Para finalizar, crie um **checklist de verificação** com pelo menos 5 perguntas que qualquer pessoa pode se fazer antes de acreditar ou compartilhar uma notícia.
 
 ### Formato de entrega (escolha um)
-- Texto/relatório digitado ou manuscrito;
+- Texto/relatório digitado ou manuscrito(foto ou digitalizado);
 - Apresentação em slides;
 - Vídeo curto (até 3 minutos) explicando o caso e o checklist.
 
