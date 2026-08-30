@@ -10,7 +10,7 @@ Cada aluno deverá escolher **um dos dois projetos abaixo** e entregar até **se
 **Tema:** Ética, direitos autorais e responsabilidade online.
 
 ### O que fazer
-1. Pesquise (na internet, com um adulto se precisar) o que são **direitos autorais** e o que diz o **Marco Civil da Internet** ou o **ECA** sobre responsabilidade nas redes sociais.
+1. Pesquise o que são **direitos autorais** e o que diz o **Marco Civil da Internet** ou o **ECA** sobre responsabilidade nas redes sociais.
 2. Pense em **3 situações reais ou fictícias** de problemas causados por atitudes online, por exemplo:
    - usar uma imagem ou música sem citar o autor;
    - compartilhar um print de conversa privada de alguém;
